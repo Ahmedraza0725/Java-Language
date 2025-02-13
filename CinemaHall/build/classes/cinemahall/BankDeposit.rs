@@ -1,0 +1,2 @@
+cinemahall.BankDeposit
+cinemahall.InvalidDepositAmountException
